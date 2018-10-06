@@ -12,3 +12,5 @@ augroup ProjectDrawer
 augroup END
 nnoremap <C-P> @:<CR>
 map Q :qa<CR>
+map ~ :q!<CR>
+nnoremap <C-T> :tabn
